@@ -1,0 +1,15 @@
+@import url(./fonts.css);
+
+:root {
+    --green: #fff;
+    --R-Bold: "Montserrat-Bold";
+    --R-Regular: "Montserrat-Regular";
+    --R-Regular: "Montserrat-Medium";
+    --R-Regular: "ProstoOne-regular";
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
